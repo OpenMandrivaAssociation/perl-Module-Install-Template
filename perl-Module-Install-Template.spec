@@ -1,5 +1,5 @@
 %define upstream_name    Module-Install-Template
-%define upstream_version 0.05
+%define upstream_version 0.08
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
